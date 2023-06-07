@@ -1,5 +1,6 @@
 # diffu
 
+https://arxiv.org/pdf/2305.16860.pdf
 
 https://arxiv.org/pdf/2302.04411.pdf
 
