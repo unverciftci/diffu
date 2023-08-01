@@ -1,4 +1,5 @@
 # diffu
+https://arxiv.org/pdf/2210.06662.pdf
 
 https://proceedings.mlr.press/v202/neklyudov23a/neklyudov23a.pdf
 
