@@ -1,4 +1,23 @@
 # diffu
+
+https://arxiv.org/pdf/2302.00482.pdf
+
+https://arxiv.org/pdf/2209.14577.pdf
+
+https://openreview.net/pdf?id=FmqFfMTNnv
+
+https://openaccess.thecvf.com/content/CVPR2023/papers/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.pdf
+
+https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_FlowGrad_Controlling_the_Output_of_Generative_ODEs_With_Gradients_CVPR_2023_paper.pdf
+
+https://arxiv.org/pdf/2209.03003.pdf
+
+https://vdeborto.github.io/publication/schrodinger_bridge/
+
+https://arxiv.org/pdf/2303.16852.pdf
+
+https://arxiv.org/pdf/2309.01745.pdf
+
 https://arxiv.org/pdf/2210.06662.pdf
 
 https://proceedings.mlr.press/v202/neklyudov23a/neklyudov23a.pdf
