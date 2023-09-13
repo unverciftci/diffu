@@ -16,6 +16,8 @@ https://vdeborto.github.io/publication/schrodinger_bridge/
 
 https://arxiv.org/pdf/2303.16852.pdf
 
+https://github.com/yuyang-shi/dsbm-pytorch
+
 https://arxiv.org/pdf/2309.01745.pdf
 
 https://arxiv.org/pdf/2210.06662.pdf
