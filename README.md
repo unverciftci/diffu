@@ -1,14 +1,16 @@
 # diffu
 
-https://arxiv.org/pdf/2302.00482.pdf
+[Improving and Generalizing Flow-Based
+Generative Models with Minibatch Optimal Transport](https://arxiv.org/pdf/2302.00482.pdf)
 
-https://arxiv.org/pdf/2209.14577.pdf
+[Rectified Flow: A Marginal Preserving Approach to
+Optimal Transport](https://arxiv.org/pdf/2209.14577.pdf)
 
-https://openreview.net/pdf?id=FmqFfMTNnv
+[Consistency Models](https://openreview.net/pdf?id=FmqFfMTNnv)
 
-https://openaccess.thecvf.com/content/CVPR2023/papers/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.pdf
+[EDICT: Exact Diffusion Inversion via Coupled Transformations](https://openaccess.thecvf.com/content/CVPR2023/papers/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.pdf)
 
-https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_FlowGrad_Controlling_the_Output_of_Generative_ODEs_With_Gradients_CVPR_2023_paper.pdf
+[FlowGrad: Controlling the Output of Generative ODEs with Gradients](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_FlowGrad_Controlling_the_Output_of_Generative_ODEs_With_Gradients_CVPR_2023_paper.pdf)
 
 [Flow Straight and Fast:
 Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/pdf/2209.03003.pdf)
