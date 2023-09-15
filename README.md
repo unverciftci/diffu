@@ -1,5 +1,7 @@
 # diffu
 
+[Learning Interpolations between Boltzmann Densities](https://arxiv.org/abs/2301.07388)
+
 [Improving and Generalizing Flow-Based
 Generative Models with Minibatch Optimal Transport](https://arxiv.org/pdf/2302.00482.pdf)
 
