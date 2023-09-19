@@ -59,3 +59,5 @@ Generative Models](https://arxiv.org/pdf/2206.00364.pdf)
 [Neural Conservation Laws: A Divergence-Free Perspective](https://arxiv.org/pdf/2210.01741.pdf)
 
 [Pseudoinverse-Guided Diffusion Models for Inverse Problems](https://openreview.net/forum?id=9_gsMA8MRKQ)
+
+https://github.com/necludov/jam
