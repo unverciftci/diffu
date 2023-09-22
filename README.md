@@ -1,5 +1,13 @@
 # diffu
 
+[Diffusion Models](https://scoste.fr/posts/diffusion/)
+
+[Flow Matching in Latent Space](https://arxiv.org/pdf/2307.08698.pdf)
+
+[Neural ODE Control for Trajectory Approximation of Continuity Equation](https://arxiv.org/pdf/2205.09241.pdf)
+
+[Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement](https://anthonysimeonov.github.io/rpdiff-multi-modal/)
+
 [Learning Interpolations between Boltzmann Densities](https://arxiv.org/abs/2301.07388)
 
 [Improving and Generalizing Flow-Based
