@@ -1,5 +1,7 @@
 # diffu
 
+[Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/pdf/2206.01714.pdf)
+
 [Diffusion Models](https://scoste.fr/posts/diffusion/)
 
 [Flow Matching in Latent Space](https://arxiv.org/pdf/2307.08698.pdf)
