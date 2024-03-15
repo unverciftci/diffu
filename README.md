@@ -1,5 +1,11 @@
 # diffu
 
+[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2403.03206.pdf)
+
+[InstaFlow](https://arxiv.org/pdf/2309.06380.pdf)
+
+[Extended Flow Matching](https://arxiv.org/pdf/2402.18839.pdf)
+
 [Compositional Visual Generation with Composable Diffusion Models](https://arxiv.org/pdf/2206.01714.pdf)
 
 [Diffusion Models](https://scoste.fr/posts/diffusion/)
