@@ -1,5 +1,7 @@
 # diffu
 
+[Minimizing Trajectory Curvature of ODE-based Generative Models](https://arxiv.org/pdf/2301.12003.pdf)
+
 [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2403.03206.pdf)
 
 [InstaFlow](https://arxiv.org/pdf/2309.06380.pdf)
